@@ -12,12 +12,12 @@ H2 is..
    :maxdepth: 2
    :caption: Contents:
 
-   Accounts
-   GettingStarted
-   Policies   
-   EducationAndSupport
-   ResearchShowcase
-   Status
-   FAQ
-   AcknowledgeH2
+   Accounts/index.rst
+   GettingStarted/index.rst
+   Policies/index.rst   
+   EducationAndSupport/index.rst
+   ResearchShowcase/index.rst
+   Status/index.rst
+   FAQ/index.rst
+   AcknowledgeH2/index.rst
 
